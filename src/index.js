@@ -1,2 +1,1 @@
-const { Button } = './components/Button'
-export { Button }
+export { default as Button } from './components/Button/index';
