@@ -5,4 +5,5 @@ const Button = ({message = 'Hello world'}) => (
    <button>{message}</button>
 )
 
-export default Button
+export default Button;
+
